@@ -6,7 +6,9 @@ The website is built using HTML and CSS, with a focus on clean design and respon
 **Features**
 
 **Responsive Design**: Optimized for various devices.
+
 **Projects Showcase**: Highlights of my work.
+
 **Contact Information**: Easy way to reach out.
 
 **How to Use**
